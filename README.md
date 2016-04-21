@@ -1,6 +1,6 @@
 # JS challenges
 
-Most of these problems are taken from <exercism.io>!
+Most of these problems are taken from exercism.io
 
 ## Hello World  
 
