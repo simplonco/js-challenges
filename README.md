@@ -10,6 +10,13 @@ World!" if no name is given.
 [README](https://github.com/simplonco/hello-world/)
 
 
+## FizzBuzz  
+
+1, 2, Fizz, 3, Buzz, Fizz
+
+[README](https://github.com/simplonco/fizzbuzz/)
+
+
 ## Leap  
 
 Write a program that will take a year and report if it is a leap year.
