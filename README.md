@@ -1,4 +1,4 @@
-# JS challenges
+# JS challenges :cactus: !
 
 Most of these problems are taken from [exercism.io](http://exercism.io) :wink: !
 
