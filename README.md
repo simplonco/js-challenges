@@ -1,6 +1,6 @@
-# JS challenges :cactus:
+# JS challenges
 
-Most of these problems are taken from [exercism.io](http://exercism.io) :wink: !
+Most of these problems are taken from [exercism.io](http://exercism.io) !
 
 ## Hello World  
 
