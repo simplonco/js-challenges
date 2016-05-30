@@ -2,6 +2,8 @@
 
 Most of these problems are taken from [exercism.io](http://exercism.io) !
 
+![Il buono, il brutto, il cattivo](http://fr.web.img6.acsta.net/videothumbnails/193/777/19377745_20130816151630688.jpg)
+
 ## Hello World  
 
 Write a program that greets the user by name, or by saying "Hello,
