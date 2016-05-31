@@ -4,6 +4,17 @@ Most of these problems are taken from [exercism.io](http://exercism.io) !
 
 ![Il buono, il brutto, il cattivo](bon-la-brute-et-le-trua-ii04-g.jpg)
 
+## How to run tests locally
+
+```shell
+# Install jasmine:
+$ sudo apt-get install nodejs-legacy
+$ sudo npm install -g jasmine-node
+​
+# Go inside your project folder and:
+$ jasmine-node *.spec.js --verbose --captureExceptions
+```
+
 ## Hello World
 
 Write a program that greets the user by name, or by saying "Hello,
