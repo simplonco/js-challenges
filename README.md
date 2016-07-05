@@ -15,7 +15,7 @@ haphazard.
 # Install jasmine:
 $ sudo apt-get install nodejs-legacy
 $ sudo npm install -g jasmine-node
-​
+
 # Go inside your project folder and:
 $ jasmine-node *.spec.js --verbose --captureExceptions
 ```
